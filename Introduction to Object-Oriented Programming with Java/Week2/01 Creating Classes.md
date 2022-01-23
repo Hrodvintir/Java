@@ -50,7 +50,8 @@
   a. If any one of the 3 attributes is less than or equal to 0, it will print a message stating that the box contains invalid properties.
 
   b. If all 3 sides are set correctly (i.e. greater than 0), it will print a message in the following form:
-  ![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FuGo3xfQT32hqN8X0B99hA_aed6647a0f1b462ea6ff070512c5ce24_Image-5_1---0.png?expiry=1643068800000&hmac=rvO0Yark4tb9MLErVrNRJmyCYB2lCh6McO_T_7_MWHg)
+ 
+ ![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FuGo3xfQT32hqN8X0B99hA_aed6647a0f1b462ea6ff070512c5ce24_Image-5_1---0.png?expiry=1643068800000&hmac=rvO0Yark4tb9MLErVrNRJmyCYB2lCh6McO_T_7_MWHg)
   
   **Note: we will not test any of our code at this point. Once we cover creating objects and calling class methods, we will ensure that all the code is operating correctly.**
   
